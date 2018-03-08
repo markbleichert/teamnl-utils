@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.rabobank.nl/teamnl-utils"
+    "url": "https://github.com/markbleichert/teamnl-utils"
   },
   "keywords": [
     "utils",
