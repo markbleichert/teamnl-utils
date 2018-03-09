@@ -1,2 +1,7 @@
-src
-.idea/*
+#src
+#test
+#.idea
+#.idea/*
+#.babelrc
+#.eslintrc
+#webpack.config.js
