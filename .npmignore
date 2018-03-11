@@ -1,7 +1,7 @@
-#src
-#test
-#.idea
-#.idea/*
-#.babelrc
-#.eslintrc
-#webpack.config.js
+src
+test
+.idea
+.idea/*
+.babelrc
+.eslintrc
+webpack.config.js
