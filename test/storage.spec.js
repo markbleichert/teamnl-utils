@@ -4,7 +4,7 @@ import chai from 'chai';
 import sinon from 'sinon';
 import sinonChai from 'sinon-chai';
 
-import {CookiesStore, LocalStorageStore} from '../lib/teamnl-utils.js';
+import {CookiesStore, LocalStorageStore} from '../lib/tnl-utils.js';
 
 chai.expect();
 chai.use(sinonChai);
